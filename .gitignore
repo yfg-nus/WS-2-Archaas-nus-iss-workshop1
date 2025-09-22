@@ -1,0 +1,10 @@
+.venv/
+*.gguf
+*.deb
+*.parquet
+*.csv
+*.zip
+*.tar
+*.gz
+*.log
+archaas-nus-iss-workshop1/archaas_env/
